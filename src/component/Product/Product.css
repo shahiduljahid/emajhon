@@ -1,0 +1,25 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  padding-bottom: 5px;
+}
+.product img {
+}
+.product-details {
+  margin-left: 20px;
+}
+.product-details h4 {
+  color: blue;
+  font-weight: 400px;
+}
+.add-product {
+  background-color: gold;
+  width: 150px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+}
