@@ -8,7 +8,7 @@
 .nav{
     background-color: black;
     line-height:40px;
-    text-align: left;
+    /* text-align: left; */
 
 }
 .nav a{
